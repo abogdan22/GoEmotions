@@ -4,7 +4,8 @@ In this project, we conduct an exploratory analysis of Google's GoEmotions corpu
 
 >This project was completed for the Deep Learning course (DS 6050) in the University of Virginia's Masters of Science in Data Science Program.
 >
->*Group 5*
+>*Group 5*  
+> Alice Bogdan, Brooks Anderson, Trey Briggs
 
 ---
 This repository contains our code notebooks as well as some small filesof results.
